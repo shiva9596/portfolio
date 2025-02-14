@@ -1,4 +1,4 @@
-👋 Hi, I’m shiva
+👋 Hi, I’m shiva Kumar
 🔍 I’m a Senior AI/ML Developer with over 4 years of hands-on experience specializing in Python, NLP, Machine Vision, and Generative AI.
    I have a proven track record of delivering high-impact AI solutions like image recognition, predictive modeling, and real-time anomaly detection systems.
    My expertise spans many technologies, including TensorFlow, PyTorch, AWS, Azure, Docker, and Kubernetes.  
@@ -29,6 +29,6 @@
 - Operating Systems: Linux/Unix, Windows  
 
 also do check my other profiles too
-Google-cloud: https://www.qwiklabs.com/public_profiles/124eb803-2ede-4e07-b984-7b235249c4ba                               
-Tableau: https://public.tableau.com/app/profile/peddapuram.shiva.kumar
-Salesforce: https://trailblazer.me/id/shiva9596
+[Google-cloud]: https://www.qwiklabs.com/public_profiles/124eb803-2ede-4e07-b984-7b235249c4ba                               
+[Tableau]: https://public.tableau.com/app/profile/peddapuram.shiva.kumar
+[Salesforce]: https://trailblazer.me/id/shiva9596
