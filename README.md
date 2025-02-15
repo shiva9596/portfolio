@@ -11,7 +11,7 @@
    I am passionate about leveraging cutting-edge technologies to create impactful and scalable solutions.  
 
 💞️ I’m always open to collaborating on data science projects, particularly those related to AI/ML model optimization, data visualization, and model deployment.
-   If you're working on exciting projects or need help in any of these areas, please connect with me!
+   If you're working on exciting projects or need help in any of these areas, please connect with me.
 
 ### Skills:
 - Programming Languages: Python, R, Node.js, JavaScript  
