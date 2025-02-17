@@ -2,5 +2,4 @@ title: Shiva Kumar
 #logo: /assets/img/headshot_circle.png
 description: Hi i am shiva Kumar
 show_downloads: true
-theme: academic-cv
-
+theme: jekyll-theme-minimal
